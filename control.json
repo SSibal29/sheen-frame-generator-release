@@ -8,10 +8,8 @@
   "version": "2026.11.23-2310",
   "url": "https://raw.githubusercontent.com/SSibal29/sheen-frame-generator-release/download/SheenFrameGenerator-2026.11.23-2310.zip",
   "sha256": "5bc2508cf05f31951f04deaab4c7f536782b1832b5b1f9762c78534e8dde1b76",
-  "mode": "auto",
-  "targets": [
-   "SHN-PR7C-M6D2"
-  ],
+  "mode": "manual",
+  "targets": "all",
   "sent": "2026-11-23 23:16"
  },
  "updated": "2026-11-23 23:16",
