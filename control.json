@@ -2,8 +2,8 @@
  "schema": "sheen-control/1",
  "default": "paused",
  "codes": {
-  "SHN-PR7C-M6D2": "active"
+  "SHN-PR7C-M6D2": "paused"
  },
  "release": null,
- "updated": "2026-11-23 20:18"
+ "updated": "2026-11-23 20:19"
 }
