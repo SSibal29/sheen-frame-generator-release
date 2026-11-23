@@ -4,8 +4,18 @@
  "codes": {
   "SHN-PR7C-M6D2": "active"
  },
- "release": null,
- "updated": "2026-11-23 21:11",
+ "release": {
+  "version": "2026.11.23-2051",
+  "url": "https://github.com/SSibal29/sheen-frame-generator-release/releases/download/v2026.11.23-2051/SheenFrameGenerator-2026.11.23-2051.zip",
+  "sha256": "95675edddcb94e25d6782267104323bae57877663aaf54a84a33a33cce7dff05",
+  "mode": "manual",
+  "targets": [
+   "SHN-PR7C-M6D2"
+  ],
+  "sent": "2026-11-23 21:13",
+  "notes": "업데이트 테스트입니다"
+ },
+ "updated": "2026-11-23 21:13",
  "feedback": {
   "repo": "SSibal29/sheen-feedback",
   "key": "_YyW3pSV3hK_38COWJnJRFfMSwsAqK8rsj4FsTppeioeZaTXZ2UsOaPy0nvYoBTBO-35Se2aA9wjNMP7hBWV1nwjv5gAux_W_RU3XiNMqQOZ_aE4ay_fT78IwEyi"
