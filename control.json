@@ -6,17 +6,14 @@
   "SHN-XEGW-HPEV": "active"
  },
  "release": {
-  "version": "2026.11.25-0048",
-  "url": "https://raw.githubusercontent.com/SSibal29/sheen-frame-generator-release/download/SheenFrameGenerator-2026.11.25-0048.zip",
-  "sha256": "ae504522c989cb5e81765217d5543cb4f9c3d8950028bd4cd4fd1a8a258da8c1",
+  "version": "2026.11.25-0411",
+  "url": "https://raw.githubusercontent.com/SSibal29/sheen-frame-generator-release/download/SheenFrameGenerator-2026.11.25-0411.zip",
+  "sha256": "bfa746cfcb44003a5abd930b78c76486b798b2e27d751207629095c7e1ef2eea",
   "mode": "auto",
-  "targets": [
-   "SHN-PR7C-M6D2"
-  ],
-  "sent": "2026-11-25 00:54",
-  "notes": "업데이트 : N개 프레임 입력 방식 , 작업되돌리기 앞으로 가기 기능"
+  "targets": "all",
+  "sent": "2026-11-25 04:18"
  },
- "updated": "2026-11-25 01:36",
+ "updated": "2026-11-25 04:18",
  "feedback": {
   "repo": "SSibal29/sheen-feedback",
   "key": "_YyW3pSV3hK_38COWJnJRFfMSwsAqK8rsj4FsTppeioeZaTXZ2UsOaPy0nvYoBTBO-35Se2aA9wjNMP7hBWV1nwjv5gAux_W_RU3XiNMqQOZ_aE4ay_fT78IwEyi"
