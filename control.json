@@ -2,8 +2,8 @@
  "schema": "sheen-control/1",
  "default": "active",
  "codes": {
-  "SHN-PR7C-M6D2": "active",
-  "SHN-XEGW-HPEV": "active"
+  "SHN-XEGW-HPEV": "active",
+  "SHN-X6BX-ZCBT": "active"
  },
  "release": {
   "version": "2026.11.25-0453",
@@ -13,7 +13,7 @@
   "targets": "all",
   "sent": "2026-11-25 04:58"
  },
- "updated": "2026-11-25 05:08",
+ "updated": "2026-11-25 05:38",
  "feedback": {
   "repo": "SSibal29/sheen-feedback",
   "key": "_YyW3pSV3hK_38COWJnJRFfMSwsAqK8rsj4FsTppeioeZaTXZ2UsOaPy0nvYoBTBO-35Se2aA9wjNMP7hBWV1nwjv5gAux_W_RU3XiNMqQOZ_aE4ay_fT78IwEyi"
