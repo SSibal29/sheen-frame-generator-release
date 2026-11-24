@@ -2,7 +2,8 @@
  "schema": "sheen-control/1",
  "default": "paused",
  "codes": {
-  "SHN-PR7C-M6D2": "active"
+  "SHN-PR7C-M6D2": "active",
+  "SHN-XEGW-HPEV": "active"
  },
  "release": {
   "version": "2026.11.25-0048",
@@ -15,7 +16,7 @@
   "sent": "2026-11-25 00:54",
   "notes": "업데이트 : N개 프레임 입력 방식 , 작업되돌리기 앞으로 가기 기능"
  },
- "updated": "2026-11-25 01:12",
+ "updated": "2026-11-25 01:30",
  "feedback": {
   "repo": "SSibal29/sheen-feedback",
   "key": "_YyW3pSV3hK_38COWJnJRFfMSwsAqK8rsj4FsTppeioeZaTXZ2UsOaPy0nvYoBTBO-35Se2aA9wjNMP7hBWV1nwjv5gAux_W_RU3XiNMqQOZ_aE4ay_fT78IwEyi"
