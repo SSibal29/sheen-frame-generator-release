@@ -1,19 +1,21 @@
 {
  "schema": "sheen-control/1",
- "default": "paused",
+ "default": "active",
  "codes": {
   "SHN-XEGW-HPEV": "active",
   "SHN-X6BX-ZCBT": "active"
  },
  "release": {
-  "version": "2026.11.25-1448",
-  "url": "https://raw.githubusercontent.com/SSibal29/sheen-frame-generator-release/download/SheenFrameGenerator-2026.11.25-1448.zip",
-  "sha256": "6b8882fc23398fd4232192c7a9d4931eafccaaa23d984eb40c9f182b1f7237d3",
+  "version": "2026.11.25-1914",
+  "url": "https://raw.githubusercontent.com/SSibal29/sheen-frame-generator-release/download/SheenFrameGenerator-2026.11.25-1914.zip",
+  "sha256": "f9a5a3651b8f026f2e8190a34bbd5f7695bd89ef77312cdfa18bbaa75b509218",
   "mode": "auto",
   "targets": "all",
-  "sent": "2026-11-25 15:04"
+  "sent": "2026-11-25 19:29",
+  "size": 81860661,
+  "notes": "이미지,뎁스맵 목록화, 3D 뷰어 개선"
  },
- "updated": "2026-11-25 15:04",
+ "updated": "2026-11-25 19:29",
  "feedback": {
   "repo": "SSibal29/sheen-feedback",
   "key": "_YyW3pSV3hK_38COWJnJRFfMSwsAqK8rsj4FsTppeioeZaTXZ2UsOaPy0nvYoBTBO-35Se2aA9wjNMP7hBWV1nwjv5gAux_W_RU3XiNMqQOZ_aE4ay_fT78IwEyi"
