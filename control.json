@@ -6,16 +6,28 @@
   "SHN-X6BX-ZCBT": "active"
  },
  "release": {
-  "version": "2026.11.25-0632",
-  "url": "https://raw.githubusercontent.com/SSibal29/sheen-frame-generator-release/download/SheenFrameGenerator-2026.11.25-0632.zip",
-  "sha256": "c27cb81c6ffa53ee80728399783200aff515a7f86457c2838df1f00ee60a0ff1",
+  "version": "2026.11.25-1448",
+  "url": "https://raw.githubusercontent.com/SSibal29/sheen-frame-generator-release/download/SheenFrameGenerator-2026.11.25-1448.zip",
+  "sha256": "6b8882fc23398fd4232192c7a9d4931eafccaaa23d984eb40c9f182b1f7237d3",
   "mode": "auto",
   "targets": "all",
-  "sent": "2026-11-25 06:49"
+  "sent": "2026-11-25 15:04"
  },
- "updated": "2026-11-25 06:49",
+ "updated": "2026-11-25 15:04",
  "feedback": {
   "repo": "SSibal29/sheen-feedback",
   "key": "_YyW3pSV3hK_38COWJnJRFfMSwsAqK8rsj4FsTppeioeZaTXZ2UsOaPy0nvYoBTBO-35Se2aA9wjNMP7hBWV1nwjv5gAux_W_RU3XiNMqQOZ_aE4ay_fT78IwEyi"
+ },
+ "models": {
+  "esam_decoder.onnx": {
+   "url": "https://raw.githubusercontent.com/SSibal29/sheen-frame-generator-release/download/models/esam_decoder.onnx",
+   "sha256": "ba99339ec60d53887c78aa445eb9f478da0d55bf42acb360f29e42c33a450045",
+   "size": 20557816
+  },
+  "esam_encoder.onnx": {
+   "url": "https://raw.githubusercontent.com/SSibal29/sheen-frame-generator-release/download/models/esam_encoder.onnx",
+   "sha256": "4233b5fe1560572527924f8dc365cdd59ff115820f826e15a44d37d2f26f5b12",
+   "size": 27755518
+  }
  }
 }
