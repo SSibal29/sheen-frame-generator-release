@@ -6,16 +6,15 @@
   "SHN-X6BX-ZCBT": "active"
  },
  "release": {
-  "version": "2026.11.25-1914",
-  "url": "https://raw.githubusercontent.com/SSibal29/sheen-frame-generator-release/download/SheenFrameGenerator-2026.11.25-1914.zip",
-  "sha256": "f9a5a3651b8f026f2e8190a34bbd5f7695bd89ef77312cdfa18bbaa75b509218",
+  "version": "2026.11.25-1935",
+  "url": "https://raw.githubusercontent.com/SSibal29/sheen-frame-generator-release/download/SheenFrameGenerator-2026.11.25-1935.zip",
+  "sha256": "28a34da7da36f940158b4c07b765524ff6452f3d6b742eae3149f8cc1eb78647",
   "mode": "auto",
   "targets": "all",
-  "sent": "2026-11-25 19:29",
-  "size": 81860661,
-  "notes": "이미지,뎁스맵 목록화, 3D 뷰어 개선"
+  "sent": "2026-11-25 19:42",
+  "size": 81862471
  },
- "updated": "2026-11-25 19:29",
+ "updated": "2026-11-25 19:42",
  "feedback": {
   "repo": "SSibal29/sheen-feedback",
   "key": "_YyW3pSV3hK_38COWJnJRFfMSwsAqK8rsj4FsTppeioeZaTXZ2UsOaPy0nvYoBTBO-35Se2aA9wjNMP7hBWV1nwjv5gAux_W_RU3XiNMqQOZ_aE4ay_fT78IwEyi"
