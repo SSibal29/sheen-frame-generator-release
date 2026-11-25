@@ -1,6 +1,6 @@
 {
  "schema": "sheen-control/1",
- "default": "active",
+ "default": "paused",
  "codes": {
   "SHN-XEGW-HPEV": "active",
   "SHN-X6BX-ZCBT": "active"
